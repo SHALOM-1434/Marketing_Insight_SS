@@ -31,4 +31,5 @@ https://github.com/SHALOM-1434/Marketing_Insight_SS/commit/d152e6ddcd6c28323f18e
 ### Total Sales By Sub-Category
 https://github.com/SHALOM-1434/Marketing_Insight_SS/commit/d152e6ddcd6c28323f18eb109bcd03b94338926a
 
-### Total Sales By Sub-Category
+### Average Discount By Category
+https://github.com/SHALOM-1434/Marketing_Insight_SS/commit/d152e6ddcd6c28323f18eb109bcd03b94338926a
