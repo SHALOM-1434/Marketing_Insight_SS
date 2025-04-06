@@ -29,3 +29,6 @@ This project analyzes the sales performance of a retail business using the Sampl
 https://github.com/SHALOM-1434/Marketing_Insight_SS/commit/d152e6ddcd6c28323f18eb109bcd03b94338926a
 
 ### Total Sales By Sub-Category
+https://github.com/SHALOM-1434/Marketing_Insight_SS/commit/d152e6ddcd6c28323f18eb109bcd03b94338926a
+
+### Total Sales By Sub-Category
